@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+}
+.a{
+    font-family: 'Hind Siliguri', sans-serif;
+   
+   
+}
+
+h1{
+    color:white;
+    text-shadow:3px 3px 5px  black;
+}
+i{ 
+ color:red;
+}
+.img1{
+    width: 100%;
+height:400px;
+
+}
+.Color{
+    background-color: #fae8ec;
+    
+}
+.marque{
+    background-color:#EEEEEE ;
+}
